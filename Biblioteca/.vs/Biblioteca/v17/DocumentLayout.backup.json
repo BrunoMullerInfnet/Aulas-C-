@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2368808-A668-4167-85A4-BA6ECB5DC06B}|Biblioteca.csproj|c:\\projetos\\biblioteca\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2368808-A668-4167-85A4-BA6ECB5DC06B}|Biblioteca.csproj|solutionrelative:operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operacoes.cs",
+              "DocumentMoniker": "C:\\Projetos\\Biblioteca\\Operacoes.cs",
+              "RelativeDocumentMoniker": "Operacoes.cs",
+              "ToolTip": "C:\\Projetos\\Biblioteca\\Operacoes.cs",
+              "RelativeToolTip": "Operacoes.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:54:59.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
